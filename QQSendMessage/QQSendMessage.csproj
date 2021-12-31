@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Furion" Version="3.0.5" />
+    <PackageReference Include="MiniExcel" Version="0.19.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="QQHtml\" />
+    <Folder Include="Links\" />
+  </ItemGroup>
+
+</Project>

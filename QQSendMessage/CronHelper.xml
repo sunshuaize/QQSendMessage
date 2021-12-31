@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Cron>
+
+	<item>
+		<value>*/1 * * * * *</value>
+		<description>每分钟</description>
+	</item>
+	<item>
+		<value>* * * * *</value>
+		<description>每分钟</description>
+	</item>
+	<item>
+		<value>*/1 * * * *</value>
+		<description>每分钟</description>
+	</item>
+	<item>
+		<value>0 0/1 * * * ?</value>
+		<description>每分钟</description>
+	</item>
+	<item>
+		<value>0 0 * * * ?</value>
+		<description>每小时</description>
+	</item>
+	<item>
+		<value>0 0 0/1 * * ?</value>
+		<description>每小时</description>
+	</item>
+	<item>
+		<value>0 23 ? * MON-FRI</value>
+		<description>晚上 11:00，周一至周五</description>
+	</item>
+	<item>
+		<value>* * * * * *</value>
+		<description>每秒</description>
+	</item>
+	<item>
+		<value>*/45 * * * * *</value>
+		<description>每 45 秒</description>
+	</item>
+	<item>
+		<value>*/5 * * * *</value>
+		<description>每 5 分钟</description>
+	</item>
+	<item>
+		<value>0 0/10 * * * ?</value>
+		<description>每 10 分钟</description>
+	</item>
+	<item>
+		<value>0 */5 * * * *</value>
+		<description>每 5 分钟</description>
+	</item>
+	<item>
+		<value>30 11 * * 1-5</value>
+		<description>周一至周五上午 11:30</description>
+	</item>
+	<item>
+		<value>30 11 * * *</value>
+		<description>11:30:00</description>
+	</item>
+	<item>
+		<value>0-10 11 * * *</value>
+		<description>上午 11:00 至 11:10 之间的每一分钟</description>
+	</item>
+	<item>
+		<value>* * * 3 *</value>
+		<description>每分钟，只在 3 月份</description>
+	</item>
+	<item>
+		<value>* * * 3,6 *</value>
+		<description>每分钟，只在 3 月和 6 月</description>
+	</item>
+	<item>
+		<value>30 14,16 * * *</value>
+		<description>下午 02:30 分和 04:30 分</description>
+	</item>
+	<item>
+		<value>30 6,14,16 * * *</value>
+		<description>早上 06:30，下午 02:30 和 04:30</description>
+	</item>
+	<item>
+		<value>46 9 * * 1</value>
+		<description>早上 09:46，只在星期一</description>
+	</item>
+	<item>
+		<value>23 12 15 * *</value>
+		<description>下午 12:23，在本月的第 15 天</description>
+	</item>
+	<item>
+		<value>23 12 * JAN *</value>
+		<description>下午 12:23，只在 1 月份</description>
+	</item>
+	<item>
+		<value>23 12 ? JAN *</value>
+		<description>下午 12:23，只在 1 月份</description>
+	</item>
+	<item>
+		<value>23 12 * JAN-FEB *</value>
+		<description>下午 12:23，1 月至 2 月</description>
+	</item>
+	<item>
+		<value>23 12 * JAN-MAR *</value>
+		<description>下午 12:23，1 月至 3 月</description>
+	</item>
+	<item>
+		<value>23 12 * * SUN</value>
+		<description>下午 12:23，仅在星期天</description>
+	</item>
+	<item>
+		<value>*/5 15 * * MON-FRI</value>
+		<description>每 5 分钟，下午 0:00 至 03:59，周一至周五</description>
+	</item>
+	<item>
+		<value>* * * * MON#3</value>
+		<description>每分钟，在月的第三个星期一</description>
+	</item>
+	<item>
+		<value>* * * * 4L</value>
+		<description>每一分钟，在本月的最后一天</description>
+	</item>
+	<item>
+		<value>*/5 * L JAN *</value>
+		<description>每月一次每月 5 分钟，只在 1 月份</description>
+	</item>
+	<item>
+		<value>30 02 14 * * *</value>
+		<description>下午在 02:02:30</description>
+	</item>
+	<item>
+		<value>5-10 * * * * *</value>
+		<description>每分钟的 5-10 秒</description>
+	</item>
+	<item>
+		<value>5-10 30-35 10-12 * * *</value>
+		<description>10:00 至 12:00 之间的每分钟 5-10 秒，每小时 30-35 分钟</description>
+	</item>
+	<item>
+		<value>30 */5 * * * *</value>
+		<description>每分钟的 30 秒，每五分钟</description>
+	</item>
+	<item>
+		<value>0 30 10-13 ? * WED,FRI</value>
+		<description>每小时的 30 分钟，下午 10:00 至 01:00 之间，仅在周三和周五</description>
+	</item>
+	<item>
+		<value>10 0/5 * * * ?</value>
+		<description>每分钟的 10 秒，每 05 分钟</description>
+	</item>
+	<item>
+		<value>0 0 6 1/1 * ?</value>
+		<description>下午 06:00</description>
+	</item>
+	<item>
+		<value>0 5 0/1 * * ?</value>
+		<description>一个小时的 05 分</description>
+	</item>
+	<item>
+		<value>0 0 L * *</value>
+		<description>每月最后一天上午 00：00</description>
+	</item>
+	<item>
+		<value>0 0 L-1 * *</value>
+		<description>每月最后一天的凌晨 00：00</description>
+	</item>
+	<item>
+		<value>0 0 3W * *</value>
+		<description>每月第 3 个工作日上午 00：00</description>
+	</item>
+	<item>
+		<value>0 0 LW * *</value>
+		<description>在每月的最后一个工作日，上午 00：00</description>
+	</item>
+	<item>
+		<value>0 0 * * 2L</value>
+		<description>本月最后一个星期二上午 00：00</description>
+	</item>
+	<item>
+		<value>0 0 * * 6#3</value>
+		<description>每月第三个星期六上午 00：00</description>
+	</item>
+	<item>
+		<value>0 0 ? 1 MON#1</value>
+		<description>1 月第一个星期一上午 00：00</description>
+	</item>
+</Cron>
