@@ -101,7 +101,7 @@
             this.listBox1.ForeColor = System.Drawing.SystemColors.Info;
             this.listBox1.FormattingEnabled = true;
             this.listBox1.ItemHeight = 17;
-            this.listBox1.Location = new System.Drawing.Point(305, 298);
+            this.listBox1.Location = new System.Drawing.Point(309, 298);
             this.listBox1.Name = "listBox1";
             this.listBox1.Size = new System.Drawing.Size(463, 259);
             this.listBox1.TabIndex = 5;
@@ -182,7 +182,7 @@
             // tabControl1
             // 
             this.tabControl1.Controls.Add(this.tabPage1);
-            this.tabControl1.Location = new System.Drawing.Point(307, 4);
+            this.tabControl1.Location = new System.Drawing.Point(309, 4);
             this.tabControl1.Name = "tabControl1";
             this.tabControl1.SelectedIndex = 0;
             this.tabControl1.Size = new System.Drawing.Size(465, 285);

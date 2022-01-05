@@ -7027,11 +7027,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\11572\\Desktop\\QQSendMessage\\QQSendMessage\\QQSendMessage.csproj",
+      "projectUniqueName": "C:\\Users\\11572\\Desktop\\Github\\QQSendMessage\\QQSendMessage.csproj",
       "projectName": "QQSendMessage",
-      "projectPath": "C:\\Users\\11572\\Desktop\\QQSendMessage\\QQSendMessage\\QQSendMessage.csproj",
+      "projectPath": "C:\\Users\\11572\\Desktop\\Github\\QQSendMessage\\QQSendMessage.csproj",
       "packagesPath": "C:\\Users\\11572\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\11572\\Desktop\\QQSendMessage\\QQSendMessage\\obj\\",
+      "outputPath": "C:\\Users\\11572\\Desktop\\Github\\QQSendMessage\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

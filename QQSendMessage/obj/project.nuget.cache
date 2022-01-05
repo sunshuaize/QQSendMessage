@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wKOVkOEv+QEhUrhm7zxGkB8Y4OYCCcxfdNXDjzn80ALTFVbfQr/8qOaOyOWW0ixMM522cJPUHVkNSfr/Qh9uFA==",
+  "dgSpecHash": "uQorVVWooAsjQIwOgsVhN/a8NfpfCRBvz0hak+PaUV4JKH6ZqYvJRjnL858bXoPspHtCCxqpGKJNKW6EBQSvtQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\11572\\Desktop\\QQSendMessage\\QQSendMessage\\QQSendMessage.csproj",
+  "projectFilePath": "C:\\Users\\11572\\Desktop\\Github\\QQSendMessage\\QQSendMessage.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\11572\\.nuget\\packages\\ben.demystifier\\0.4.1\\ben.demystifier.0.4.1.nupkg.sha512",
     "C:\\Users\\11572\\.nuget\\packages\\excelnumberformat\\1.1.0\\excelnumberformat.1.1.0.nupkg.sha512",

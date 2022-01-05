@@ -37,6 +37,9 @@ namespace WinFormsApp1
 
         private void button1_Click(object sender, EventArgs e)
         {
+            Button button = (Button)sender; 
+
+
             try
             {
                 button1.Enabled = false;
@@ -93,6 +96,13 @@ namespace WinFormsApp1
                 else
                 {
                     sendMessage(list);
+
+                    button1.Enabled = true;
+                    button2.Enabled = true;
+                    button3.Enabled = true;
+                    button5.Enabled = true;
+                    button6.Enabled = true;
+                    button8.Enabled = true;
                 }
             }
             catch (Exception ex)
